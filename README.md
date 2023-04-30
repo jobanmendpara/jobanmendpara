@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Hi there, I'm Joban 👋
-I'm a software engineer:
-🌱 Vue + Typescript 😆
-🥅 2023 Goals: Contribute to open source projects
-⚡ Skills: Javascript / Typescript, VueJs, ReactJs, C#, PostgreSQL
+Hi there, I'm Joban 👋<br>
+I'm a software engineer:<br>
+🌱 Vue + Typescript 😆<br>
+🥅 2023 Goals: Contribute to open source projects<br>
+⚡ Skills: Javascript / Typescript, VueJs, ReactJs, C#, PostgreSQL<br>
 
 <!--
 **jobanmendpara/jobanmendpara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
