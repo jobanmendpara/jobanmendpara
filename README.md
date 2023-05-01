@@ -5,7 +5,7 @@ I'm a software engineer:<br>
 🥅 2023 Goals: Contribute to open source projects<br>
 ⚡ Skills: Javascript / Typescript, VueJs, ReactJs, C#, PostgreSQL<br>
 <br>
-<em>Everyday is an odyssey is you get distracted as much as I do.</em>
+<em>Everyday is an odyssey if you get distracted as much as I do.</em>
 
 <!--
 **jobanmendpara/jobanmendpara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
