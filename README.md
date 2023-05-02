@@ -3,7 +3,7 @@
 I'm a software engineer:<br>
 🌱 Vue + Typescript 😆<br>
 🥅 2023 Goals: Contribute to open source projects<br>
-⚡ Skills: Javascript / Typescript, VueJs, ReactJs, C#, PostgreSQL<br>
+⚡ Skills: Javascript / Typescript, VueJs, ReactJs, C#, Lua, PostgreSQL, etc...<br>
 <br>
 <em>Everyday is an odyssey if you get distracted as much as I do.</em>
 
