@@ -4,8 +4,6 @@ I'm a software engineer:<br>
 🌱 Vue + Typescript 😆<br>
 🥅 2023 Goals: Contribute to open source projects<br>
 ⚡ Skills: Javascript / Typescript, VueJs, C#, Lua, PostgreSQL, etc...<br>
-<br>
-<em>Everyday is an odyssey of the mind.</em>
 
 <!--
 **jobanmendpara/jobanmendpara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
