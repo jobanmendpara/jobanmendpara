@@ -2,7 +2,7 @@
 <hr>
 I'm a software engineer:<br>
 🌱 Vue + Typescript 😆<br>
-🥅 2023 Goals: Contribute to open source projects<br>
+🥅 2024 Goals: Contribute to open source projects<br>
 ⚡ Skills: Javascript / Typescript, VueJs, C#, Lua, PostgreSQL, etc...<br>
 
 <!--
